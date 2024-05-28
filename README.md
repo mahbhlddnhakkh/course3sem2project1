@@ -18,8 +18,14 @@ pip install -r requirements.txt
 ```
 ### Запуск (в venv):
 ```sh
-python mesh-test1.py [-h] [--models [{ArmadilloMesh,KnotMesh,AvocadoModel,DamagedHelmetModel,FlightHelmetModel,MonkeyModel,SwordModel} ...]] [--draw [{vis_spin,o3dvis_spin,draw_geometries,draw,draw_geometries_wireframe,draw_geometries_back_face,draw_geometries_wireframe_back_face} ...]]
+python mesh-test1.py
 ```
+### Параметры запуска:
+```
+--models [{ArmadilloMesh,KnotMesh,AvocadoModel,DamagedHelmetModel,FlightHelmetModel,MonkeyModel,SwordModel} ...]
+--draw [{vis_spin,o3dvis_spin,draw_geometries,draw,draw_geometries_wireframe,draw_geometries_back_face,draw_geometries_wireframe_back_face} ...]
+```
+По умолчанию будут использоваться `--models ArmadilloMesh --draw vis_spin`.
 ## Renderdoc
 ### Установить renderdoc
 https://renderdoc.org/
