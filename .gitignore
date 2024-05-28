@@ -1,0 +1,5 @@
+*/__pycache__/*
+/.vscode/*
+/venv/*
+/model-test1.py
+/settings1.cap
