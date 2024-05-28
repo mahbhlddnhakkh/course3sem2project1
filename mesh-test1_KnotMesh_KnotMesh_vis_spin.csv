@@ -1,5 +1,0 @@
-EID,GPU Duration (µs),Input Vertices Read,Input Primitives,GS Primitives,Rasterizer Invocations,Rasterized Primitives,Samples Passed,VS Invocations,TCS Invocations,TES Invocations,GS Invocations,PS Invocations,CS Invocations
-15,43.008,0,0,0,0,0,0,0,0,0,0,0,0
-46,44.032,8640,2880,0,2880,2880,386405,8640,0,0,0,114298,0
-80,62.464,8640,2880,0,2880,2880,382601,8640,0,0,0,113527,0
-84,2.048,0,0,0,0,0,0,0,0,0,0,0,0
